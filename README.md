@@ -1,1 +1,1 @@
-This repository is for a code that has a list of names, if you enter a name you can take 5 points off that person's conduct grade.
+This repository is for 3 different codes, the conduct file has a list of names that if you enter a name you can take 5 points off that person's conduct grade, the 2nd one which is a expense tracker, you have the option to put the price of an item, the category of that item and the name of that item, the last file is a textbox with a counter
